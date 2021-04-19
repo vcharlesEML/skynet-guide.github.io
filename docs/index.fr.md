@@ -73,4 +73,4 @@ Skynet fait toujours l'objet d'un développement intensif de la part de Skynet L
 
 Cet article est pratiquement terminé, pour en savoir plus, consultez [building on skynet](/skynet/building-on-skynet/index.html).
 
-*Écrit par : Covalent, Dernière modification : 14 avril 2021 - Traduit par Vincent CHARLES le 19 avril 2021 *.
+*Écrit par : Covalent, Dernière modification : 14 avril 2021 - Traduit de l'anglais par Vincent CHARLES le 19 avril 2021 *
